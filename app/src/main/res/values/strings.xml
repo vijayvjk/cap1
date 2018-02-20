@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">cap</string>
+    <string name="click_to_register">Click to Register...</string>
+    <string name="display_name">Display Name...</string>
+    <string name="email">Email...</string>
+    <string name="password">Password....</string>
+    <string name="create_account">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="hi_ovii_kutty">Hi Ovii Kutty</string>
+    <string name="need_a_new_account">need_a_new_account</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="this_is_main_page">This is main page</string>
+    <string name="to_my_ovii_kuty">To my Ovii Kuty</string>
+    <string name="passwordlogin">Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login">LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_name_settings">Display Name</string>
+    <string name="change_status_settings">CHANGE STATUS</string>
+    <string name="change_image_settings">CHANGE IMAGE</string>
+    <string name="default_status_settings">default_status</string>
+    <string name="currently_single_but_one_side_love_apadinu_nenaikrn">Currently single but one side love apadinu nenaikrn</string>
+    <string name="name">Name</string>
+    <string name="email_reg">Email</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="create_a_new_acount2">Create A New Acount</string>
+    <string name="message_text">Message Text</string>
+    <string name="display_name_9">Display Name</string>
+    <string name="textviewnn">TextView</string>
+    <string name="_00_00m">00:00</string>
+    <string name="todo">TODO</string>
+</resources>
