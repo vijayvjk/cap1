@@ -6,9 +6,7 @@ package com.example.soul.cap;
 import android.app.Application;
 import android.content.Context;
 
-/**
- * Created by AkshayeJH on 16/07/17.
- */
+
 
 public class GetTimeAgo extends Application{
 
