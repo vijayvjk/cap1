@@ -12,10 +12,6 @@ import com.google.firebase.messaging.RemoteMessage;
 
 import static android.content.Context.NOTIFICATION_SERVICE;
 
-/**
- * Created by AkshayeJH on 13/07/17.
- */
-
 public class FirebaseMessagingService extends com.google.firebase.messaging.FirebaseMessagingService {
 
 
